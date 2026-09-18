@@ -1,6 +1,8 @@
 # Cognitive-Graph-Computing-CGC-
 fundamentally different AI architecture where an LLM is not the central intelligence or is eliminated entirely.  I would call the approach Cognitive Graph Computing (CGC).
 
+https://sca-semantic-cognitive-architecture-zhi8wz.v2.appdeploy.ai/?utm_source=chatgpt.com
+
 I would call the approach **Cognitive Graph Computing (CGC)**.
 
 ![Image](https://images.openai.com/static-rsc-4/JgohjdBB-OqL_hvlQwT50SPsYH12vw2ydTQ03ZI8USqtgXmYUq2MPrR22iOWItzhHsPpATnGX9uoIXo020YblsN1ficoSV5nldcwCxko-nWj70BmlXEYOBqAt9AIzhcE2QI8RAfi2AJHqGq6NG8aHPvnWQeZ9ImckuUWfl5W54abSEMtRtFtDZtCZUMY6FBD?purpose=fullsize)
